@@ -4,20 +4,20 @@
 
 # 👋 ¡Hola! Soy **Silvano Puccini**  
 
-💻 **Desarrollador en formación** con una sólida base técnica gracias a la **🎓 Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas (TUDAI)**, donde curso actualmente el **📚 2º año**, y el **🚀 Máster en Desarrollo Web Full Stack** en **ConquerBlocks**.  
+💻 **Desarrollador en formación** con una sólida base técnica gracias a la **Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas (TUDAI)**, donde curso actualmente el **2º año**, y el **Máster en Desarrollo Web Full Stack** en **ConquerBlocks**.  
 
-✨ Mi enfoque combina **🖌️ Frontend** y **⚙️ Backend**, aplicando **🛠️ buenas prácticas de programación**, principios **📐 SOLID** y **📈 metodologías ágiles** para crear soluciones **🌐 escalables, eficientes y centradas en el usuario**.  
+✨ Mi enfoque combina **Frontend** y **Backend**, aplicando **buenas prácticas de programación**, principios **SOLID** y **metodologías ágiles** para crear soluciones **escalables, eficientes y centradas en el usuario**.  
 
-💡 Con más de 🔟 años de experiencia en áreas comerciales, estoy comprometido a aportar ese conocimiento y habilidades en 💼 entornos digitales, impulsando la 😊 satisfacción del cliente y el 🏆 éxito empresarial, siempre con un enfoque en la 💡 innovación y el 💻 desarrollo.  
+💡 Con **más de 10 años de experiencia en áreas comerciales**, estoy comprometido a aportar ese conocimiento y habilidades en entornos digitales, impulsando la satisfacción del cliente y el éxito empresarial, siempre con un enfoque en la 💡 innovación y el desarrollo.  
 
-❤️ Lo que me caracteriza y me apasiona es **unir mi experiencia comercial con la programación** para crear **📱 productos digitales centrados en las personas** con un impacto real.  
+❤️ Lo que me caracteriza y me apasiona es **unir mi experiencia comercial con la programación** para crear **productos digitales centrados en las personas** con un impacto real.  
 
 🧩 **Habilidades destacadas:**  
 - 🔍 Capacidad para integrar conocimientos técnicos con un enfoque en **resolución de problemas**.  
 - 🤝 Experiencia en **trabajo colaborativo remoto** y **control de versiones (Git/GitHub)**.  
 - 📖 Motivación constante por **aprender nuevas tecnologías** como IA y aplicarlas en **proyectos reales**.  
 
-📍 Actualmente desarrollo **🛠️ proyectos propios y académicos** que fortalecen mis habilidades como **Full Stack Developer**, con la meta de unirme a un equipo donde pueda aportar **💡 soluciones digitales innovadoras**.  
+📍 Actualmente desarrollo **proyectos propios y académicos** que fortalecen mis habilidades como **Full Stack Developer**, con la meta de unirme a un equipo donde pueda aportar **soluciones digitales innovadoras**.  
   
 
 ---
@@ -85,4 +85,3 @@
 💡 *"La programación no es solo código, es la capacidad de transformar ideas en soluciones reales."*
 
 
-[def]: https://github.com/SilvanoPuccini/SilvanoPuccini/blob/6472f417d80525a484922f20355bc782ee527e26/titulofinal.png
