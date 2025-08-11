@@ -55,16 +55,8 @@
 - **En progreso:** HTML, CSS, JavaScript, TypeScript, ReactJS, SQL, Streamlit, Django, despliegue de aplicaciones, WordPress.  
 
 ---
-## 📅 Línea de Tiempo Completa
- ![Image_Alt]
-
----
-
-
-## 📌 Proyectos
-🔹 [Repositorio 1](#) – Breve descripción del proyecto.  
-🔹 [Repositorio 2](#) – Breve descripción del proyecto.  
-
+ ![Image_Alt](https://github.com/SilvanoPuccini/SilvanoPuccini/blob/56f52e2cf65e9d6f4c8700d1487eb709dcd4b470/lineatiempo.png)
+ 
 ---
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
