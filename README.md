@@ -8,7 +8,7 @@
 
 ✨ Mi enfoque combina **Frontend** y **Backend**, aplicando **buenas prácticas de programación**, principios **SOLID** y **metodologías ágiles** para crear soluciones **escalables, eficientes y centradas en el usuario**.  
 
-💡 Con **más de 10 años de experiencia en áreas comerciales**, estoy comprometido a aportar ese conocimiento y habilidades en entornos digitales, impulsando la satisfacción del cliente y el éxito empresarial, siempre con un enfoque en la 💡 innovación y el desarrollo.  
+💡 Con **más de 10 años de experiencia en áreas comerciales**, estoy comprometido a aportar ese conocimiento y habilidades en entornos digitales, impulsando la satisfacción del cliente y el éxito empresarial, siempre con un enfoque en la innovación y el desarrollo.  
 
 ❤️ Lo que me caracteriza y me apasiona es **unir mi experiencia comercial con la programación** para crear **productos digitales centrados en las personas** con un impacto real.  
 
