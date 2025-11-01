@@ -55,7 +55,7 @@
 - **En progreso:** HTML, CSS, JavaScript, TypeScript, ReactJS, SQL, Streamlit, Django, despliegue de aplicaciones, WordPress.  
 
 ---
- ![Image_Alt](https://github.com/SilvanoPuccini/SilvanoPuccini/blob/56f52e2cf65e9d6f4c8700d1487eb709dcd4b470/lineatiempo.png)
+![Línea de tiempo profesional](https://github.com/SilvanoPuccini/SilvanoPuccini/blob/main/lineadetiempogif.gif)
  
 ---
 
