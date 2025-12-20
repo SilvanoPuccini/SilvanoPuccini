@@ -54,7 +54,7 @@
 [![Repo](https://img.shields.io/badge/Ver%20Repositorio-GitHub-black?style=for-the-badge&logo=github)](https://github.com/SilvanoPuccini/FacturIA-2.0)
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/SilvanoPuccini/SilvanoPuccini/main/facturia2.0.png" width="300" alt="FacturIA 2.0">
+  <img src="https://raw.githubusercontent.com/SilvanoPuccini/SilvanoPuccini/main/facturia2.0.png" width="370" alt="FacturIA 2.0">
 </p>
 
 Sistema **end-to-end** para la **automatización del procesamiento contable**, que clasifica comprobantes financieros (PDF, imágenes y CSV) utilizando **Inteligencia Artificial** y genera **dashboards interactivos** en tiempo real.
@@ -102,21 +102,23 @@ Sistema **end-to-end** para la **automatización del procesamiento contable**, q
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
 <a href="https://github.com/SilvanoPuccini">
-  <img src="https://github-readme-stats.vercel.app/api?username=SilvanoPuccini&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SilvanoPuccini&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="500"/>
 </a>
 <a href="https://github.com/SilvanoPuccini">
-  <img src="https://streak-stats.demolab.com?user=SilvanoPuccini&theme=blueberry" width="420"/>
+  <img src="https://streak-stats.demolab.com?user=SilvanoPuccini&theme=blueberry" width="450"/>
 </a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<a href="https://github.com/SilvanoPuccini">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SilvanoPuccini&theme=tokyonight&hide_border=true"  width="500" alt="Resumen"/>
+<table>
+  <tr>
+ <a href="https://github.com/SilvanoPuccini">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SilvanoPuccini&theme=tokyonight&hide_border=true"  width="575" alt="Resumen"/>
 </a>
 <a href="https://github.com/SilvanoPuccini">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SilvanoPuccini&layout=compact&langs_count=8&theme=tokyonight" width="420" alt="Lenguajes"/>
 </a>
-
+  </tr>
+</table>
 
 ---
 ## 📫 Contacto
