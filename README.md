@@ -53,6 +53,10 @@
 
 [![Repo](https://img.shields.io/badge/Ver%20Repositorio-GitHub-black?style=for-the-badge&logo=github)](https://github.com/SilvanoPuccini/FacturIA-2.0)
 
+<p align="center">
+  <img src="https://github.com/SilvanoPuccini/FacturIA-2.0/blob/main/facturia2.0.png" width="450" alt="Dashboard FacturIA 2.0">
+</p>
+
 Sistema **end-to-end** para la **automatización del procesamiento contable**, que clasifica comprobantes financieros (PDF, imágenes y CSV) utilizando **Inteligencia Artificial** y genera **dashboards interactivos** en tiempo real.
 
 **🔹 Qué hace el proyecto**
