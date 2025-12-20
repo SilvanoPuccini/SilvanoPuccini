@@ -1,4 +1,4 @@
- ![Image_Alt](https://github.com/SilvanoPuccini/SilvanoPuccini/blob/6472f417d80525a484922f20355bc782ee527e26/titulofinal.png) 
+ ![Image_Alt](https://github.com/SilvanoPuccini/SilvanoPuccini/blob/main/titulofinal.png)
 
 ---
 
@@ -38,9 +38,45 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
 
 ### 🛠️ Herramientas
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![WSL](https://img.shields.io/badge/WSL-4B8BBE?style=for-the-badge&logo=linux&logoColor=white)
+
+---
+
+## 📂 Proyectos destacados
+
+### 💰 FacturIA 2.0 — Sistema Inteligente de Gestión Financiera con IA
+
+[![Repo](https://img.shields.io/badge/Ver%20Repositorio-GitHub-black?style=for-the-badge&logo=github)](https://github.com/SilvanoPuccini/FacturIA-2.0)
+
+Sistema **end-to-end** para la **automatización del procesamiento contable**, que clasifica comprobantes financieros (PDF, imágenes y CSV) utilizando **Inteligencia Artificial** y genera **dashboards interactivos** en tiempo real.
+
+**🔹 Qué hace el proyecto**
+- Clasifica automáticamente **ingresos y egresos** con **Google Gemini Vision**
+- Extrae datos clave (monto, fecha, categoría, emisor)
+- Procesa comprobantes recibidos por **email (IMAP / Gmail API)**
+- Almacena la información en **base de datos SQL** con auditoría completa
+- Genera **reportes visuales y exportables** (Excel / PDF)
+
+**🛠️ Tecnologías principales**
+- **Python 3.10+**
+- **Streamlit** (Dashboard interactivo)
+- **Google Gemini AI**
+- **SQLAlchemy (ORM)**
+- **Plotly** (visualizaciones)
+- **SQLite / PostgreSQL**
+- **Gmail API / IMAP**
+
+**📐 Arquitectura**
+- Pipeline automatizado: Email → IA → Base de datos → Dashboard
+- Diseño modular, escalable y orientado a buenas prácticas
+- Manejo de rate-limit, validación de datos y control de errores
+
+📌 *Proyecto desarrollado como aplicación real, aplicando automatización, IA y análisis de datos para resolver un problema concreto de gestión financiera.*
 
 ---
 
