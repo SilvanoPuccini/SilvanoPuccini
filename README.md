@@ -107,9 +107,6 @@ Sistema **end-to-end** para la **automatización del procesamiento contable**, q
 - **En progreso:** HTML, CSS, JavaScript, TypeScript, ReactJS, SQL, Streamlit, Django, despliegue de aplicaciones, WordPress.  
 
 ---
-![Línea de tiempo profesional](https://github.com/SilvanoPuccini/SilvanoPuccini/blob/main/lineadetiempogif.gif)
- 
----
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
