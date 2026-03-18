@@ -4,7 +4,7 @@
 
 # 👋 ¡Hola! Soy **Silvano Puccini**  
 
-💻 **Desarrollador en formación** con una sólida base técnica gracias a la **Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas (TUDAI)**, donde curso actualmente el **2º año**, y el **Máster en Desarrollo Web Full Stack** en **ConquerBlocks**.  
+💻 **Desarrollador en formación** con una sólida base técnica gracias a la **Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas (TUDAI)**, donde curso actualmente el **3º año**, y el **Máster en Desarrollo Web Full Stack** en **ConquerBlocks**.  
 
 ✨ Mi enfoque combina **Frontend** y **Backend**, aplicando **buenas prácticas de programación**, principios **SOLID** y **metodologías ágiles** para crear soluciones **escalables, eficientes y centradas en el usuario**.  
 
@@ -35,10 +35,10 @@
 
 ### ⚙️ Backend
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ![Database](https://img.shields.io/badge/Bases%20de%20Datos-2563EB?style=for-the-badge&logo=databricks&logoColor=white)
@@ -60,6 +60,42 @@
 ---
 
 ## 📂 Proyectos destacados
+
+### 🛒 FerrelonStock — E-commerce Profesional con Django 5
+
+[![Repo](https://img.shields.io/badge/Ver%20Repositorio-GitHub-black?style=for-the-badge&logo=github)](https://github.com/SilvanoPuccini/ferrelonstock)
+[![Demo](https://img.shields.io/badge/Ver%20Demo-Render-46E3B7?style=for-the-badge&logo=render)](https://ferrelonstock.onrender.com)
+
+<p align="left">
+  <img src="https://res.cloudinary.com/dukgz1lpn/image/upload/v1773847476/Inicio-Ferreter%C3%ADa-Corral%C3%B3n-03-18-2026_sl5jhd.png" width="700" alt="FerrelonStock">
+</p>
+
+E-commerce completo para una **ferretería y corralón online**, con carrito en tiempo real, pagos con Stripe y Mercado Pago, sistema de envíos con tracking, valoraciones de productos y panel de administración avanzado.
+
+**🔹 Qué hace el proyecto**
+- Catálogo de productos con **búsqueda fuzzy** y filtros por categoría/marca
+- Carrito interactivo sin recargas con **HTMX + Alpine.js**
+- Checkout con **Stripe** y **Mercado Pago** integrados
+- Sistema de envíos con **7 zonas, 4 transportistas y tracking en tiempo real**
+- Valoraciones con **estrellas clickeables** (1 review por usuario)
+- **Import/Export CSV** masivo y generación de **facturas PDF**
+- Deploy en producción con **Cloudinary** para imágenes persistentes
+
+**🛠️ Tecnologías principales**
+- **Django 5** + **PostgreSQL 16**
+- **Tailwind CSS** + **HTMX** + **Alpine.js**
+- **Stripe** + **Mercado Pago**
+- **Cloudinary** + **WhiteNoise** + **Gunicorn**
+- **django-allauth** + **django-import-export**
+- **pytest-django** (65 tests)
+
+**📐 Arquitectura**
+- 7 apps modulares: shop, cart, orders, payments, shipping, accounts, core
+- Carrito basado en sesión con actualización en tiempo real
+- Webhooks para tracking de envíos (Andreani, OCA)
+- Security hardening para producción (SSL, HSTS, cookies seguras)
+
+📌 *Proyecto académico (ConquerBlocks) evolucionado a nivel profesional — 7 apps, 14 modelos, 65 tests, deploy en Render.*
 
 ### 💰 FacturIA 2.0 — Sistema Inteligente de Gestión Financiera con IA
 
@@ -97,9 +133,9 @@ Sistema **end-to-end** para la **automatización del procesamiento contable**, q
 ---
 
 ## 📚 Formación
-### 🎓 Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas (TUDAI) –Univ. de la Defensa Nacional-Centro regional universitario de Cba, IUA *(En curso, 2º año)*
+### 🎓 Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas (TUDAI) –Univ. de la Defensa Nacional-Centro regional universitario de Cba, IUA *(En curso, 3º año)*
 - Fundamentos de programación, bases de datos, arquitectura de computadoras, redes, derecho informático y ética profesional.  
-- Desarrollo de software I y II, diseño de interfaces, sistemas operativos, gestión de proyectos, sistemas gestores de contenidos, testing y calidad de software.
+- Desarrollo de software I y II, diseño de interfaces, sistemas operativos, gestión de proyectos, sistemas gestores de contenidos, seguridad, testing y calidad de software.
 
 
 ### 🎓 Máster en Desarrollo Web Full Stack – Conquer Blocks (España) *(En curso)*
