@@ -97,6 +97,8 @@ E-commerce completo para una **ferretería y corralón online**, con carrito en 
 
 📌 *Proyecto académico (ConquerBlocks) evolucionado a nivel profesional — 7 apps, 14 modelos, 65 tests, deploy en Render.*
 
+##
+
 ### 💰 FacturIA 2.0 — Sistema Inteligente de Gestión Financiera con IA
 
 [![Repo](https://img.shields.io/badge/Ver%20Repositorio-GitHub-black?style=for-the-badge&logo=github)](https://github.com/SilvanoPuccini/FacturIA-2.0)
