@@ -17,20 +17,21 @@
 - 🤝 Experiencia en **trabajo colaborativo remoto** y **control de versiones (Git/GitHub)**.  
 - 📖 Motivación constante por **aprender nuevas tecnologías** como IA y aplicarlas en **proyectos reales**.  
 
-📍 Actualmente desarrollo **proyectos propios y académicos** que fortalecen mis habilidades como **Full Stack Developer**, con la meta de unirme a un equipo donde pueda aportar **soluciones digitales innovadoras**.  
-  
+📍 Actualmente desarrollo **proyectos propios y académicos** que fortalecen mis habilidades como **Full Stack Developer**, con la meta de unirme a un equipo donde pueda aportar **soluciones digitales innovadoras**.
 
----
-
-## 🚀 Tecnologías y herramientas
+--- 
+# ⚡ Stack técnico
 
 ### 💻 Frontend
-
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTMX](https://img.shields.io/badge/HTMX-3366CC?style=for-the-badge&logo=htmx&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ### ⚙️ Backend
@@ -40,16 +41,24 @@
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![API REST](https://img.shields.io/badge/API_REST-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-![Database](https://img.shields.io/badge/Bases%20de%20Datos-2563EB?style=for-the-badge&logo=databricks&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### 🗄️ Bases de datos
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
+### 🤖 IA y automatización
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Agentes IA](https://img.shields.io/badge/Agentes_IA-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
+![Skills](https://img.shields.io/badge/Skills-8B5CF6?style=for-the-badge&logo=lightning&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_Protocol-4F46E5?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Google_Gemini_AI-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
 
-
-### 🛠️ Herramientas 
-
+### 🛠️ Herramientas
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0F4C5C?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -57,7 +66,21 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![WSL](https://img.shields.io/badge/WSL-4B8BBE?style=for-the-badge&logo=linux&logoColor=white)
 
+### 🚀 Deploy
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+
+### 📋 Metodologías
+![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![SOLID](https://img.shields.io/badge/Principios_SOLID-FF6F00?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Clean Code](https://img.shields.io/badge/Clean_Code-239120?style=for-the-badge&logo=codereview&logoColor=white)
+![Testing](https://img.shields.io/badge/Testing_(pytest)-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+
 ---
+
 
 ## 📂 Proyectos destacados
 
