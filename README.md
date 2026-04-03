@@ -90,6 +90,8 @@
 [![Demo](https://img.shields.io/badge/Ver%20Demo-aktivar.online-f0a500?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aktivar.online)
 [![Hackathon](https://img.shields.io/badge/Hackathon-CubePath%202026-7bda96?style=for-the-badge)](https://github.com/midudev/hackaton-cubepath-2026)
 
+![Aktivar Preview](https://github.com/SilvanoPuccini/aktivar/blob/main/docs/Aktivar-login.png)
+
 Plataforma para **organizar actividades grupales en LATAM** — trekking, kayak, festivales, trail running y más. Con **carpooling integrado** para que el grupo comparta el viaje y los costos. Participante de la **Hackathon CubePath 2026**.
 
 **🔹 Qué hace el proyecto**
