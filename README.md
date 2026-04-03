@@ -84,6 +84,46 @@
 
 ## 📂 Proyectos destacados
 
+### 🏔️ Aktivar — Red Social de Actividades Grupales en LATAM
+
+[![Ver Repositorio](https://img.shields.io/badge/Ver%20Repositorio-GitHub-black?style=for-the-badge&logo=github)](https://github.com/SilvanoPuccini/aktivar)
+[![Demo](https://img.shields.io/badge/Ver%20Demo-aktivar.online-f0a500?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aktivar.online)
+[![Hackathon](https://img.shields.io/badge/Hackathon-CubePath%202026-7bda96?style=for-the-badge)](https://github.com/midudev/hackaton-cubepath-2026)
+
+Plataforma para **organizar actividades grupales en LATAM** — trekking, kayak, festivales, trail running y más. Con **carpooling integrado** para que el grupo comparta el viaje y los costos. Participante de la **Hackathon CubePath 2026**.
+
+**🔹 Qué hace el proyecto**
+
+* Feed de actividades con **mapa interactivo** y geolocalización (PostGIS)
+* **Chat grupal en tiempo real** por actividad vía WebSocket
+* **Módulo de transporte** con conductor verificado, vehículo y split de costos automático
+* Registro e inscripción a actividades con cupos, lista de espera y notificaciones
+* Pagos con **Stripe Checkout** y **Stripe Connect** para organizadores
+* **Sistema de reviews** bidireccional post-evento
+* **SOS de emergencia** con geolocalización durante viajes
+* Deploy completo con Docker, Nginx y dominio propio
+
+**🛠️ Tecnologías principales**
+
+* **Django 5** + **Django REST Framework** + **Celery** + **Django Channels**
+* **React 19** + **TypeScript** + **Vite** + **Tailwind CSS**
+* **PostgreSQL 16** + **PostGIS** + **Redis 7**
+* **Stripe** + **WebSocket** + **Docker Compose** + **Nginx**
+* **CubePath** + **Dokploy** (deploy en VPS propio)
+* **GitHub Actions** (CI/CD: tests, lint, build, security audit)
+
+**📐 Arquitectura**
+
+* Monorepo con separación backend/frontend
+* 8 apps Django modulares: users, activities, transport, chat, payments, reviews, notifications, core
+* API REST versionada (`/api/v1/`) + WebSocket para chat en tiempo real
+* 78 archivos TypeScript en el frontend + 100+ tests con pytest-django
+* Security hardening: JWT, Argon2, HTTPS, HSTS, rate limiting, Sentry
+
+📌 *Proyecto fullstack completo desarrollado en el marco de la Hackathon CubePath 2026 y el Máster Full Stack de ConquerBlocks — deploy real en aktivar.online con VPS propio, dominio y CI/CD activo.*
+
+##
+
 ### 🛒 FerrelonStock — E-commerce Profesional con Django 5
 
 [![Repo](https://img.shields.io/badge/Ver%20Repositorio-GitHub-black?style=for-the-badge&logo=github)](https://github.com/SilvanoPuccini/ferrelonstock)
