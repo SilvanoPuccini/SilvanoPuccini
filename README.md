@@ -4,11 +4,11 @@
 
 # 👋 ¡Hola! Soy **Silvano Puccini**  
 
-💻 **Desarrollador en formación** con una sólida base técnica gracias a la **Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas (TUDAI)**, donde curso actualmente el **3º año**, y el **Máster en Desarrollo Web Full Stack** en **ConquerBlocks**.  
+💻 **Desarrollador Full Stack**  con formación en **Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas (TUDAI)**, donde curso actualmente el **3º año**, y el **Máster en Desarrollo Web Full Stack** en **ConquerBlocks**, *(Completado 2026 - Remoto)*.  
 
 ✨ Mi enfoque combina **Frontend** y **Backend**, aplicando **buenas prácticas de programación**, principios **SOLID** y **metodologías ágiles** para crear soluciones **escalables, eficientes y centradas en el usuario**.  
 
-💡 Con **más de 10 años de experiencia en áreas comerciales**, estoy comprometido a aportar ese conocimiento y habilidades en entornos digitales, impulsando la satisfacción del cliente y el éxito empresarial, siempre con un enfoque en la innovación y el desarrollo.  
+💡 **Más de 10 años de experiencia en gestión comercial**, me permiten entender los problemas del usuario final y traducirlos en funcionalidades concretas. Estoy comprometido a aportar ese conocimiento y habilidades en entornos digitales, impulsando la satisfacción del cliente y el éxito empresarial, siempre con un enfoque en la innovación y el desarrollo.  
 
 ❤️ Lo que me caracteriza y me apasiona es **unir mi experiencia comercial con la programación** para crear **productos digitales centrados en las personas** con un impacto real.  
 
@@ -29,10 +29,13 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![HTMX](https://img.shields.io/badge/HTMX-3366CC?style=for-the-badge&logo=htmx&logoColor=white)
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
 
 ### ⚙️ Backend
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -65,6 +68,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![WSL](https://img.shields.io/badge/WSL-4B8BBE?style=for-the-badge&logo=linux&logoColor=white)
+![OpenCode](https://img.shields.io/badge/▯_OpenCode-000000?style=for-the-badge&logoColor=white)
 
 ### 🚀 Deploy
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -202,14 +206,17 @@ Sistema **end-to-end** para la **automatización del procesamiento contable**, q
 ---
 
 ## 📚 Formación
-### 🎓 Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas (TUDAI) –Univ. de la Defensa Nacional-Centro regional universitario de Cba, IUA *(En curso, 3º año)*
+### 🎓 Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas (TUDAI) –Univ. de la Defensa Nacional-Centro regional universitario de Cba, IUA (Argentina)
+*(En curso, 3º año - Remoto)*
 - Fundamentos de programación, bases de datos, arquitectura de computadoras, redes, derecho informático y ética profesional.  
 - Desarrollo de software I y II, diseño de interfaces, sistemas operativos, gestión de proyectos, sistemas gestores de contenidos, seguridad, testing y calidad de software.
 
 
-### 🎓 Máster en Desarrollo Web Full Stack – Conquer Blocks (España) *(En curso)*
-- **Prework completado:** Bases de la informática, Pseudocódigo, Linux, Python, Principios SOLID, Acceso a BBDD, Git y GitHub.  
-- **En progreso:** HTML, CSS, JavaScript, TypeScript, ReactJS, SQL, Streamlit, Django, despliegue de aplicaciones, WordPress.  
+### 🎓 Máster en Desarrollo Web Full Stack – Conquer Blocks (España)
+  *(Completado 2026 - Remoto)* 
+- **Stack:** HTML, CSS, JavaScript, TypeScript, ReactJS, Angular, VueJS, SQL, Streamlit, Django, NodeJS, despliegue de aplicaciones, WordPress.  
+- **Habilidades:** Bases de la informática, Pseudocódigo, Linux, Python, Principios SOLID, Acceso a BBDD, Git y GitHub.  
+
 
 ---
 
