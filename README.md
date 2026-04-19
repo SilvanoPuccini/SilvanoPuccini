@@ -243,7 +243,7 @@ Sistema **end-to-end** para la **automatización del procesamiento contable**, q
 
 ---
 ## 📫 Contacto
-[![Email](https://img.shields.io/badge/-DA4F33?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silvano.jm.puccini@gmail.com)[![silvano.jm.puccini@gmail.com](https://img.shields.io/badge/silvano.jm.puccini@gmail.com-white?style=for-the-badge&logoColor=white&color=black)](mailto:silvano.jm.puccini@gmail.com)                     [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvano-jose-maria-puccini-394992265?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)                   [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/925401070388256778)
+[![Email](https://img.shields.io/badge/-DA4F33?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silvano.jm.puccini@gmail.com)[![silvano.jm.puccini@gmail.com](https://img.shields.io/badge/silvano.jm.puccini@gmail.com-white?style=for-the-badge&logoColor=white&color=black)](mailto:silvano.jm.puccini@gmail.com)                     [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvano-puccini?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)                   [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/925401070388256778)
 ---
 💡 *"La programación no es solo código, es la capacidad de transformar ideas en soluciones reales."*
 
