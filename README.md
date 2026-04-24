@@ -19,7 +19,35 @@
 
 📍 Actualmente desarrollo **proyectos propios y académicos** que fortalecen mis habilidades como **Full Stack Developer**, con la meta de unirme a un equipo donde pueda aportar **soluciones digitales innovadoras**.
 
+---
+
+## 🌐 Portfolio — silvanopuccini.dev
+
+[![Ver Portfolio](https://img.shields.io/badge/silvanopuccini.dev-1B2A4A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://silvanopuccini.dev)
+
+[![Preview](https://raw.githubusercontent.com/SilvanoPuccini/portfolio/main/docs/assets/SilvanoPuccini_FullStack.png)](https://silvanopuccini.dev)
+
+Plataforma de producto completa construida con **Next.js 15 · TypeScript · Supabase · Tailwind CSS v4**.  
+Proyectos en producción, blog técnico con newsletter, panel admin autenticado y soporte completo **ES/EN**.  
+No es un portfolio estático — es un sistema desplegado con seguridad, rate limiting y arquitectura real.
+
+🔹 Qué incluye
+
+* Portfolio público ES/EN con proyectos y decisiones técnicas visibles
+* Blog técnico **El Radar** en MDX con newsletter, categorías y paginación
+* Panel admin autenticado server-side con cookie HTTP-only
+* Rate limiting, CSP, HSTS y sanitización de inputs en producción
+
+🛠️ Tecnologías principales
+
+* Next.js 15 (App Router) + TypeScript + Tailwind CSS v4
+* Supabase (PostgreSQL) + Resend + MDX
+* Vercel + Claude Code + Google Gemini AI
+
+📌 Portfolio v2 — reescritura completa desde stack académico a plataforma de producción real con autenticación, newsletter y arquitectura escalable.
+
 --- 
+
 # ⚡ Stack técnico
 
 ### 💻 Frontend
